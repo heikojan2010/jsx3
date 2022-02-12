@@ -1,11 +1,15 @@
 {
   "name": "jsx3",
   "version": "0.0.0",
+  
   "scripts": {
-    "start": "vite",
+    "start": "npm run start",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
+  },
+  "engines": {
+    "node": "8.9.3"
   },
   "devDependencies": {
     "vite": "^2.3.2"
